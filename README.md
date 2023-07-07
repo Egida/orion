@@ -17,7 +17,7 @@ $ python3 main.py
 ```  
 And you're free to go!
 ## About Orion
-**Orion** is made by albrazeus.
+**Orion** is made by albrazodiac.
 Contact: 
  - Discord: albra#1337
  - Telegram: @albrazodiac
