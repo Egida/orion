@@ -1,0 +1,4 @@
+Welcome to Orion V2
+In order to continue, please login first!
+
+NOTE: You can change the 'user' and 'password' in config.json
