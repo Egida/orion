@@ -1,0 +1,11 @@
+|   Methods   |   Description   |   VIP   |
+|-------------|-----------------|---------|
+|     TCP     | Send TCP attack |  false  |
+|     UDP     | Send UDP attack |  false  |
+|     RAW     | Send RAW attack |  false  |
+|     SAMP    | Send SAMP bytes |  false  |
+|     HTTP    | Send HTTP bytes |  false  |
+|     IGMP    | Send IGMP bytes |  false  |
+|     STD     | Send STD attack |  false  |
+|      CC     | Send CC request |  false  |
+|     SLOW    | Send SLOW bytes |  false  |
