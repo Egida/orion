@@ -1,1 +1,20 @@
+{
+    "AppName": "Orion",
+    "Developer": "Albra",
 
+    "attack": {
+        "method_list": ["TCP", "UDP", "RAW", "SAMP", "IGMP", "HTTP", "STD", "CC", "SLOW"]
+    },
+
+    "login": {
+        "isRequiredToLogin": false,
+        "username": ["albra"],
+        "password": "albrav2"
+    },
+
+    "server_database": {
+        "server_hostname": "127.0.0.1",
+        "useServer": true,
+        "serverPort": 8000
+    }
+}
