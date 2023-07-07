@@ -1,0 +1,4 @@
+About Orion:
+   - Recode by AlbraZodiac
+   - Language: Python
+   - Version: 2.0.1
