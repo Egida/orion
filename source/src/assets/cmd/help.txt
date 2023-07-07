@@ -1,0 +1,8 @@
+* 'help'
+  - Shows useful information
+* 'attack'
+  - Enter attack mode
+* 'about'
+  - Display information about program
+* 'methods'
+  - Shows you a list of available methods
