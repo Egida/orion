@@ -20,4 +20,4 @@ And you're free to go!
 **Orion** is made by albrazeus.
 Contact: 
  - Discord: albra#1337
- - Telegram: @albrazeus
+ - Telegram: @albrazodiac
