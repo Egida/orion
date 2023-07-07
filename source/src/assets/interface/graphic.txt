@@ -1,0 +1,3 @@
+Welcome to Orion V2
+Type 'help' to see list of commands
+Read 'README.MD' to find for help in usage.
