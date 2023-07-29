@@ -19,5 +19,5 @@ And you're free to go!
 ## About Orion
 **Orion** is made by albrazodiac.
 Contact: 
- - Discord: albra#1337
- - Telegram: @albrazodiac
+ - Discord: Lucify#1337
+ - Telegram: @lucifygg
